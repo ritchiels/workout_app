@@ -21,4 +21,4 @@ const SearchExercises = () => {
 export default SearchExercises
 
 //38:57
-//streakin
+//streaks
