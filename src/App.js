@@ -23,4 +23,4 @@ const App = () => {
 
 export default App
 
-//fnext
+//babel fix? "@babel/plugin-proposal-private-property-in-object"
