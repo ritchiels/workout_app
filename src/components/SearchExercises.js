@@ -60,4 +60,4 @@ const SearchExercises = () => {
 export default SearchExercises
 
 //48:20
-//update
+//updates
