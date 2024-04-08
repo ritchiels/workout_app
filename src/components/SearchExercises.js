@@ -1,11 +1,12 @@
 import { useEffect, useState } from 'react'
 import { Box, Button, Stack, TextField, Typography } from '@mui/material'
+import { SearchOffSharp } from '@mui/icons-material'
 
 const SearchExercises = () => {
     const [search, setSearch] = useState('')
 
     const handleSearch = async () => {
-
+        
     }
 
     return (
@@ -60,4 +61,3 @@ const SearchExercises = () => {
 export default SearchExercises
 
 //48:20
-//change
